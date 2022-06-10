@@ -15,6 +15,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/MovementTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovementAcceleration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovementInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/PlayerMovementAcceleration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/PlayerJumping.cs" />
       </list>
     </option>
   </component>
@@ -27,6 +31,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -57,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654872079454</updated>
-      <workItem from="1654872116887" duration="1695000" />
+      <workItem from="1654872116887" duration="13149000" />
     </task>
     <servers />
   </component>
@@ -68,5 +73,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1654885175075">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1654885175075" />
   </component>
 </project>
